@@ -1,0 +1,76 @@
+licence personnalisée pour **Formacity**, 
+---
+
+### **Formacity Open Services License (FOSL) 1.0**  
+**Lien vers la licence** : [https://formacity.org/licenses/FOSL-1.0](https://formacity.org/licenses/FOSL-1.0)  
+
+---
+
+### **LICENCE**  
+**LES SERVICES (TELS QUE DÉFINIS CI-DESSOUS) SONT FOURNIS SELON LES TERMES DE CETTE LICENCE PUBLIQUE FORMACITY ("FOSL" OU "LICENCE"). LES SERVICES SONT PROTÉGÉS PAR LES LOIS SUR LA PROPRIÉTÉ INTELLECTUELLE ET/OU D'AUTRES LOIS APPLICABLES. TOUTE UTILISATION DES SERVICES NON AUTORISÉE PAR CETTE LICENCE OU PAR LA LOI EST INTERDITE.**  
+
+EN EXERÇANT LES DROITS ACCORDÉS SUR LES SERVICES, VOUS ACCEPTEZ ET VOUS ENGAGEZ À RESPECTER LES TERMES DE CETTE LICENCE. SI CETTE LICENCE EST CONSIDÉRÉE COMME UN CONTRAT, LE LICENCIER (FORMACITY) VOUS ACCORDE LES DROITS PRÉVUS CI-DESSOUS EN ÉCHANGE DE VOTRE ACCEPTATION DE CES CONDITIONS.  
+
+---
+
+### **1. Définitions**  
+1. **"Services"** : Les prestations offertes par Formacity, incluant mais sans s'y limiter :  
+   - L'accompagnement pour les études à l'étranger.  
+   - La recherche d'emploi à l'international.  
+   - Les formations linguistiques.  
+   - L'organisation d'événements éducatifs ou culturels.  
+2. **"Client"** : Toute personne (individu ou entité) utilisant les Services de Formacity.  
+3. **"Contenu"** : Tout matériel fourni par Formacity (guides, ressources pédagogiques, supports d'événements, etc.).  
+4. **"Attribution"** : La mention obligatoire de Formacity comme source originale lors de la réutilisation du Contenu.  
+
+---
+
+### **2. Droits accordés**  
+Sous réserve du respect des conditions ci-dessous, Formacity accorde au Client :  
+1. **Accès aux Services** : Utilisation personnelle ou professionnelle des Services, sans frais initiaux (sauf mention contraire).  
+2. **Réutilisation du Contenu** :  
+   - Reproduction et partage du Contenu, à condition de créditer Formacity.  
+   - Adaptation du Contenu (ex. : traduction), sous réserve d'indiquer clairement les modifications apportées.  
+3. **Participation aux Événements** : Accès libre ou sur inscription aux activités organisées, selon les modalités communiquées.  
+
+---
+
+### **3. Restrictions**  
+1. **Usage commercial** : La revente des Services ou du Contenu sans accord écrit de Formacity est interdite.  
+2. **Responsabilité** : Le Client s'engage à utiliser les Services de manière légale et éthique. Formacity décline toute responsabilité en cas de mauvaise utilisation (ex. : fausses déclarations pour des visas).  
+3. **Modification du Contenu** : Toute altération du Contenu qui porterait atteinte à la réputation de Formacity est prohibée.  
+
+---
+
+### **4. Attribution**  
+Toute utilisation du Contenu doit inclure :  
+- La mention **"Source : Formacity – [https://formacity.org](https://formacity.org)"**.  
+- Un lien vers la licence FOSL 1.0 si le Contenu est partagé en ligne.  
+
+---
+
+### **5. Limitation de garantie**  
+LES SERVICES SONT FOURNIS "TELS QUELS". FORMACITY N'OFFRE AUCUNE GARANTIE CONCERNANT :  
+- L'OBTENTION D'UNE ACCEPTATION UNIVERSITAIRE OU D'UN EMPLOI.  
+- LA QUALITÉ DES SERVICES FOURNIS PAR LES PARTENAIRES (UNIVERSITÉS, EMPLOYEURS, ETC.).  
+
+---
+
+### **6. Résiliation**  
+Formacity se réserve le droit de résilier l'accès aux Services en cas de violation des termes de cette licence.  
+
+---
+
+### **7. Divers**  
+- Cette licence est régie par les lois du [pays du siège social de Formacity].  
+- Les versions ultérieures de la FOSL pourront remplacer cette licence, avec notification préalable.  
+
+---
+
+### **Pour utiliser les Services sous cette licence** :  
+Placez le logo Formacity et le texte suivant sur votre site ou support :  
+> *"Ce projet utilise les Services de Formacity sous la licence FOSL 1.0. En savoir plus : [lien vers la licence]."*  
+
+---
+
+**Remarque** : Cette licence est une proposition adaptée à une agence de services. Pour une validité juridique, consultez un expert en droit des contrats. Vous pouvez aussi vous inspirer des licences existantes comme celles de [MIT](https://opensource.org/licenses/MIT) ou [Apache](https://www.apache.org/licenses/LICENSE-2.0) pour des clauses plus techniques.
